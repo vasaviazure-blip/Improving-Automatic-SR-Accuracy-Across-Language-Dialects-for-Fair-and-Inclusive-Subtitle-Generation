@@ -259,14 +259,4 @@ The research proposal was developed collaboratively by:
 - Vasavi Atkuri
 - Zain Shahid
 
-## Module
 
-**Research, Professionalism and Innovation**
-
-**Programme:** MSc Artificial Intelligence
-
-## Author
-
-**Vasavi Atkuri**
-
-GitHub: https://github.com/vasaviazure-blip
